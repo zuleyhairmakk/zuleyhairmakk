@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zuleyhairmakk
-- 👀 I’m interested in .Net 
+- 👀 I’m interested in NLU
 - 📫 How to reach me zuleyhairmakk@gmail.com
 
 <!---
