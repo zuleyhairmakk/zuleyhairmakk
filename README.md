@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zuleyhairmakk
-- 👀 I’m interested in NLU
+- 👀 I’m interested in NLU and NLP
 - 📫 How to reach me zuleyhairmakk@gmail.com
 
 <!---
