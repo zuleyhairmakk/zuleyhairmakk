@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zuleyhairmakk
-- 👀 I’m interested in NLU and NLP
+- 👀 I’m interested in Data Science
 - 📫 How to reach me zuleyhairmakk@gmail.com
 
 <!---
